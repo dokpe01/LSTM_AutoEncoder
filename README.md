@@ -70,7 +70,10 @@
 # 5. Technology Stack
 |  |  |
 |-----------------|-----------------|
-| Python    |<img src="https://pythonlife.in/images/pythonlogo.png" alt="Python" width="100">| 
+| HTML5    |<img src="https://github.com/user-attachments/assets/2e122e74-a28b-4ce7-aff6-382959216d31" alt="HTML5" width="100">| 
+| CSS3    |   <img src="https://github.com/user-attachments/assets/c531b03d-55a3-40bf-9195-9ff8c4688f13" alt="CSS3" width="100">|
+| Javascript    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Javascript" width="100"> | 
+| Python    |<img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1" alt="Python" width="100">| 
 | PostgreSQL    |   <img src="https://dt-cdn.net/hub/logos/postgresdb-remote-monitoring.png" alt="PostgreSQL" width="100">|
 
 <br/>
@@ -83,6 +86,9 @@ project/
 │   ├── index.html           # HTML 템플릿 파일
 │   ├── lstm.py              # LSTM-AutoEncoder 파일
 │   └── main.py              # Flask 서버 파일
+├── src/
+│   ├── index.css            # 전역 CSS 파일
+│   └── index.js             # 엔트리 포인트 파일
 ├── data/
 │   ├── water_pressure/      # 수압센서 데이터 파일
 │   ├── turbidity/           # 수질센서 데이터 파일
