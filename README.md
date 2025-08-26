@@ -49,7 +49,7 @@
 <br/>
 <br/>
 
-# 4. Tasks & Responsibilities (작업 및 역할 분담)
+# 4. Tasks & Responsibilities
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | 허성욱    |  <img src="https://avatars.githubusercontent.com/u/225093840?v=4" alt="허성욱" width="100"> | <ul><li>프로그래밍</li></ul>     |
